@@ -45,7 +45,7 @@ p {
 }
 
 .navbar {
-  background-color: black;
+  background: rgb(107, 212, 154);
   padding-top: 15px;
   padding-bottom: 15px;
   border: 0;
